@@ -51,8 +51,6 @@ The application will start in **debug mode** and can be accessed at `http://127.
 │-- app.py               # Main Flask application
 │-- templates/
 │   ├── chat.html        # Web interface for chatbot
-│-- uploads/             # Directory for storing uploaded files
-│-- requirements.txt     # Required Python dependencies
 ```
 
 ## Technologies Used
